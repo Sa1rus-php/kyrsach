@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anymac/CLionProjects/kyrsach/Source.h
+iostream
+-
+iomanip
+-
+cmath
+-
+fstream
+-
+string
+-
+
+/Users/anymac/CLionProjects/kyrsach/functions.cpp
+Source.h
+/Users/anymac/CLionProjects/kyrsach/Source.h
+

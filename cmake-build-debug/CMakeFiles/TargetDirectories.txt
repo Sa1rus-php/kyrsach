@@ -1,0 +1,3 @@
+/Users/anymac/CLionProjects/kyrsach/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/anymac/CLionProjects/kyrsach/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anymac/CLionProjects/kyrsach/cmake-build-debug/CMakeFiles/kyrsach.dir
